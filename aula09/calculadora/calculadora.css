@@ -1,0 +1,14 @@
+.conteiner{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(4,80px);
+    gap: 5px;
+    border: 2px solid black;
+}
+
+.botao{
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+
+}
